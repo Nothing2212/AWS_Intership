@@ -13,23 +13,23 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+&emsp; **Full Name:** Cao Bao Hoang Nam
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Phone Number:** 0912286921 
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** 113061caobaohoangnamhh11a4@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology and Education
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** AWS082025
+&emsp; **Class:** AWS042026
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+&emsp; **Internship Duration:** From 17/04/2025 to 10/07/2025
 
 ![Your profile picture](/images/avatar.png)
 
