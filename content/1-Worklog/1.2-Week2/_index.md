@@ -19,8 +19,8 @@ pre: " <b> 1.2. </b> "
 | Wed | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                | 22/04/2026 | 22/04/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | Thu | - Learn VPC: <br>&emsp; + Public/private subnets <br>&emsp; + Route table <br>&emsp; + Internet Gateway <br>&emsp; + Security Group               | 23/04/2026 | 23/04/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | Fri | - **Practice:** <br>&emsp; + Build a custom VPC with public/private subnets <br>&emsp; + Configure a Security Group for EC2                       | 24/04/2026 | 24/04/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Sat | - (Self-study at home) Reviewed EC2 and VPC, redid this week's hands-on labs to reinforce the concepts                                            | 25/04/2026 | 25/04/2026      |                                               |
-| Sun | - (Self-study at home) Read documentation on Amazon S3 to prepare for Week 3                                                                      | 26/04/2026 | 26/04/2026      |                                               |
+| Sat | - Reviewed EC2 and VPC, redid this week's hands-on labs to reinforce the concepts                                            | 25/04/2026 | 25/04/2026      |                                               |
+| Sun | - Read documentation on Amazon S3 to prepare for Week 3                                                                      | 26/04/2026 | 26/04/2026      |                                               |
 
 ### Week 2 Achievements:
 

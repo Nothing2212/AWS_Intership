@@ -25,7 +25,7 @@ Starting this week, the worklog focuses on the AI workstream of the LunaGenZ pro
 | Thu | - **Practice:** try calling the Bedrock InvokeModel API with Claude 3 Haiku via console/SDK                                                   | 28/05/2026 | 28/05/2026      |                     |
 | Fri | - Study the AI processing flow: user request &rarr; AWS Lambda (Core Logic) &rarr; Amazon Bedrock &rarr; return result (Gen Prompt AI)        | 29/05/2026 | 29/05/2026      |                     |
 | Sat | - Attended the **Meeting 30/5** event with FCJ members (see the "Events Participated" &rarr; Event 1 section for details)                     | 30/05/2026 | 30/05/2026      |                     |
-| Sun | - (Self-study at home) Read further material on Amazon Bedrock and effective prompt writing to prepare for Week 8                              | 31/05/2026 | 31/05/2026      |                     |
+| Sun | - Read further material on Amazon Bedrock and effective prompt writing to prepare for Week 8                              | 31/05/2026 | 31/05/2026      |                     |
 
 ### Week 7 Achievements:
 

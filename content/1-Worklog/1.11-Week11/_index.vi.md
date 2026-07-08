@@ -19,8 +19,8 @@ pre: " <b> 1.11. </b> "
 | 4   | - Cấu hình CloudWatch Logs & Metrics cho các Lambda (Core Logic, Payment Webhook Handler, Report Processor) và API Gateway                                  | 24/06/2026   | 24/06/2026      |                |
 | 5   | - Thiết lập CloudWatch Alarm cảnh báo lỗi/độ trễ khi gọi Amazon Bedrock                                                                                      | 25/06/2026   | 25/06/2026      |                |
 | 6   | - Kiểm thử end-to-end toàn bộ luồng: User request &rarr; Auth &rarr; Validate &rarr; Payment &rarr; Gen AI &rarr; SQS &rarr; Report &rarr; S3 &rarr; SES &rarr; Email | 26/06/2026   | 26/06/2026      |                |
-| 7   | - (Tự học tại nhà) Ôn lại các CloudWatch alarm/dashboard đã thiết lập, kiểm tra lại ngưỡng cảnh báo                                                     | 27/06/2026   | 27/06/2026      |                |
-| CN  | - (Tự học tại nhà) Chuẩn bị tài liệu, ghi chú cho 2 tuần cuối kỳ thực tập (rà soát bảo mật, tổng kết)                                                    | 28/06/2026   | 28/06/2026      |                |
+| 7   | - Ôn lại các CloudWatch alarm/dashboard đã thiết lập, kiểm tra lại ngưỡng cảnh báo                                                     | 27/06/2026   | 27/06/2026      |                |
+| CN  | - Chuẩn bị tài liệu, ghi chú cho 2 tuần cuối kỳ thực tập (rà soát bảo mật, tổng kết)                                                    | 28/06/2026   | 28/06/2026      |                |
 
 ### Kết quả đạt được tuần 11:
 

@@ -19,8 +19,8 @@ pre: " <b> 1.5. </b> "
 | 4   | - Tìm hiểu Auto Scaling Group, launch template                                                                      | 13/05/2026   | 13/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 5   | - **Thực hành:** cấu hình Auto Scaling Group kết hợp với ALB                                                        | 14/05/2026   | 14/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 6   | - Tìm hiểu Amazon CloudWatch: metrics, alarms, dashboard                                                            | 15/05/2026   | 15/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| 7   | - (Tự học tại nhà) Ôn lại cấu hình ALB/Auto Scaling Group, thử lại kịch bản scale-out/scale-in                      | 16/05/2026   | 16/05/2026      |                                               |
-| CN  | - (Tự học tại nhà) Đọc tài liệu về Route 53 và CloudFront để chuẩn bị cho tuần 6                                    | 17/05/2026   | 17/05/2026      |                                               |
+| 7   | - Ôn lại cấu hình ALB/Auto Scaling Group, thử lại kịch bản scale-out/scale-in                      | 16/05/2026   | 16/05/2026      |                                               |
+| CN  | - Đọc tài liệu về Route 53 và CloudFront để chuẩn bị cho tuần 6                                    | 17/05/2026   | 17/05/2026      |                                               |
 
 ### Kết quả đạt được tuần 5:
 

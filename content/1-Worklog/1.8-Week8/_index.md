@@ -20,7 +20,7 @@ pre: " <b> 1.8. </b> "
 | Thu | - Handle errors & retries when calling Bedrock (timeout, throttling) <br> - Securely store API keys/secrets via AWS Secrets Manager | 04/06/2026 | 04/06/2026      |                     |
 | Fri | - Test the prompt with various sample inputs, tune it to improve the quality of generated results                                   | 05/06/2026 | 05/06/2026      |                     |
 | Sat | - Attended the **Meeting 06/6** event with FCJ members (see the "Events Participated" &rarr; Event 2 section for details)           | 06/06/2026 | 06/06/2026      |                     |
-| Sun | - (Self-study at home) Reviewed this week's prompt-tuning results, researched Bedrock throttling limits further                     | 07/06/2026 | 07/06/2026      |                     |
+| Sun | - Reviewed this week's prompt-tuning results, researched Bedrock throttling limits further                     | 07/06/2026 | 07/06/2026      |                     |
 
 ### Week 8 Achievements:
 

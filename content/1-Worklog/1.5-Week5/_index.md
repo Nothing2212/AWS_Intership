@@ -19,8 +19,8 @@ pre: " <b> 1.5. </b> "
 | Wed | - Learn about Auto Scaling Group, launch templates                                                  | 13/05/2026 | 13/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | Thu | - **Practice:** configure an Auto Scaling Group combined with an ALB                                 | 14/05/2026 | 14/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | Fri | - Learn Amazon CloudWatch: metrics, alarms, dashboards                                               | 15/05/2026 | 15/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Sat | - (Self-study at home) Reviewed the ALB/Auto Scaling Group setup, re-tested scale-out/scale-in scenarios | 16/05/2026 | 16/05/2026      |                                               |
-| Sun | - (Self-study at home) Read documentation on Route 53 and CloudFront to prepare for Week 6            | 17/05/2026 | 17/05/2026      |                                               |
+| Sat | - Reviewed the ALB/Auto Scaling Group setup, re-tested scale-out/scale-in scenarios | 16/05/2026 | 16/05/2026      |                                               |
+| Sun | - Read documentation on Route 53 and CloudFront to prepare for Week 6            | 17/05/2026 | 17/05/2026      |                                               |
 
 ### Week 5 Achievements:
 

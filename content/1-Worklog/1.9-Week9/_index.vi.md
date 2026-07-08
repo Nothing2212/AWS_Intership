@@ -19,8 +19,8 @@ pre: " <b> 1.9. </b> "
 | 4   | - Code consumer xử lý message từ SQS <br> - Truy vấn DynamoDB để kiểm tra trạng thái thanh toán (Verify Payment) trước khi trả kết quả     | 10/06/2026   | 10/06/2026      |                |
 | 5   | - Tích hợp với Lambda (Payment Webhook Handler): nhận callback thanh toán, cập nhật trạng thái vào DynamoDB                               | 11/06/2026   | 11/06/2026      |                |
 | 6   | - Kiểm thử luồng end-to-end: request &rarr; validate &rarr; verify payment &rarr; gen AI &rarr; đẩy kết quả qua SQS                       | 12/06/2026   | 12/06/2026      |                |
-| 7   | - (Tự học tại nhà) Ôn lại luồng SQS/DynamoDB trong tuần, ghi chú lại tài liệu kỹ thuật cá nhân                                             | 13/06/2026   | 13/06/2026      |                |
-| CN  | - (Tự học tại nhà) Đọc tài liệu về các thư viện sinh PDF để chuẩn bị cho tuần 10                                                           | 14/06/2026   | 14/06/2026      |                |
+| 7   | - Ôn lại luồng SQS/DynamoDB trong tuần, ghi chú lại tài liệu kỹ thuật cá nhân                                             | 13/06/2026   | 13/06/2026      |                |
+| CN  | - Đọc tài liệu về các thư viện sinh PDF để chuẩn bị cho tuần 10                                                           | 14/06/2026   | 14/06/2026      |                |
 
 ### Kết quả đạt được tuần 9:
 

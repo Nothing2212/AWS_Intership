@@ -19,8 +19,8 @@ pre: " <b> 1.4. </b> "
 | 4   | - Tìm hiểu backup, snapshot và restore RDS                                                                               | 06/05/2026   | 06/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 5   | - Tìm hiểu Amazon DynamoDB cơ bản: partition key, sort key                                                               | 07/05/2026   | 07/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 6   | - **Thực hành:** tạo bảng DynamoDB, thao tác CRUD cơ bản                                                                 | 08/05/2026   | 08/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| 7   | - (Tự học tại nhà) Ôn lại RDS/DynamoDB, thực hành thêm vài thao tác CRUD với DynamoDB                                    | 09/05/2026   | 09/05/2026      |                                               |
-| CN  | - (Tự học tại nhà) Đọc tài liệu về Elastic Load Balancer và Auto Scaling để chuẩn bị cho tuần 5                          | 10/05/2026   | 10/05/2026      |                                               |
+| 7   | - Ôn lại RDS/DynamoDB, thực hành thêm vài thao tác CRUD với DynamoDB                                    | 09/05/2026   | 09/05/2026      |                                               |
+| CN  | - Đọc tài liệu về Elastic Load Balancer và Auto Scaling để chuẩn bị cho tuần 5                          | 10/05/2026   | 10/05/2026      |                                               |
 
 ### Kết quả đạt được tuần 4:
 

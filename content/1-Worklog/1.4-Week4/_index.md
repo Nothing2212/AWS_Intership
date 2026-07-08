@@ -19,8 +19,8 @@ pre: " <b> 1.4. </b> "
 | Wed | - Learn RDS backup, snapshot, and restore                                                                   | 06/05/2026 | 06/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | Thu | - Learn basic Amazon DynamoDB: partition key, sort key                                                      | 07/05/2026 | 07/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | Fri | - **Practice:** create a DynamoDB table, basic CRUD operations                                               | 08/05/2026 | 08/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Sat | - (Self-study at home) Reviewed RDS/DynamoDB, practiced a few more CRUD operations with DynamoDB              | 09/05/2026 | 09/05/2026      |                                               |
-| Sun | - (Self-study at home) Read documentation on Elastic Load Balancer and Auto Scaling to prepare for Week 5     | 10/05/2026 | 10/05/2026      |                                               |
+| Sat | - Reviewed RDS/DynamoDB, practiced a few more CRUD operations with DynamoDB              | 09/05/2026 | 09/05/2026      |                                               |
+| Sun | - Read documentation on Elastic Load Balancer and Auto Scaling to prepare for Week 5     | 10/05/2026 | 10/05/2026      |                                               |
 
 ### Week 4 Achievements:
 
