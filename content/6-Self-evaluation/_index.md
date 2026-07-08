@@ -7,7 +7,6 @@ pre: " <b> 6. </b> "
 ---
 
 During my internship at First Cloud AI Journey – Workforce Bootcamp 2026, from April 17, 2026 to July 12, 2026, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.
-I moved from a Software Engineer role into a DevOps role, through which I improved my skills in **programming, analysis, report writing, communication, diagramming, and getting started building a project with serverless, among others**.
 
 In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
 
