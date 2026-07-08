@@ -19,6 +19,8 @@ pre: " <b> 1.10. </b> "
 | 4   | - Cấu hình lưu file PDF vào Amazon S3 (Report Bucket), đặt quy tắc đặt tên/đường dẫn object hợp lý                             | 17/06/2026   | 17/06/2026      |                |
 | 5   | - Cấu hình S3 lifecycle policy: chuyển object sang **S3 Glacier** sau **30 ngày**                                              | 18/06/2026   | 18/06/2026      |                |
 | 6   | - Kiểm thử toàn bộ luồng sinh & lưu trữ báo cáo, xác minh lifecycle hoạt động đúng                                            | 19/06/2026   | 19/06/2026      |                |
+| 7   | - (Tự học tại nhà) Xem lại code Lambda Report Processor, refactor một số phần theo góp ý của mentor                          | 20/06/2026   | 20/06/2026      |                |
+| CN  | - (Tự học tại nhà) Đọc tài liệu về Amazon SES để chuẩn bị cho tuần 11                                                         | 21/06/2026   | 21/06/2026      |                |
 
 ### Kết quả đạt được tuần 10:
 

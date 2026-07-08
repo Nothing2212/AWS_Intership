@@ -1,6 +1,6 @@
 ---
 title: "Week 12 Worklog"
-date: 2024-01-01
+date: 2026-06-29
 weight: 2
 chapter: false
 pre: " <b> 1.12. </b> "
@@ -20,6 +20,7 @@ This covers the last two weeks of the internship (29/06/2026 - 10/07/2026), merg
 | -------------- | ----------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------- |
 | Mon - Wed      | - Optimize prompts for Claude 3 Haiku: reduce token count, measure latency and Bedrock call cost                    | 29/06/2026 | 01/07/2026      |                     |
 | Thu - Fri      | - Security review: AWS Secrets Manager, IAM permissions for the Lambdas, WAF rules                                  | 02/07/2026 | 03/07/2026      |                     |
+| Sat - Sun      | - (Self-study at home) Reviewed the security review results, prepared regression test scenarios for the final week | 04/07/2026 | 05/07/2026      |                     |
 | Mon - Wed      | - Regression-test the whole system, fix any bugs found                                                             | 06/07/2026 | 08/07/2026      |                     |
 | Thu            | - Prepare technical documentation and demo the AI part of the LunaGenZ project                                     | 09/07/2026 | 09/07/2026      |                     |
 | Fri            | - Finalize and submit the internship final report, hand over work                                                  | 10/07/2026 | 10/07/2026      |                     |

@@ -19,6 +19,8 @@ pre: " <b> 1.10. </b> "
 | Wed | - Configure storing the PDF file in Amazon S3 (Report Bucket) with a sensible object naming/path convention               | 17/06/2026 | 17/06/2026      |                     |
 | Thu | - Configure an S3 lifecycle policy: transition objects to **S3 Glacier** after **30 days**                                 | 18/06/2026 | 18/06/2026      |                     |
 | Fri | - Test the full report generation & storage flow, verify the lifecycle rule works correctly                               | 19/06/2026 | 19/06/2026      |                     |
+| Sat | - (Self-study at home) Reviewed the Report Processor Lambda code, refactored parts of it based on the mentor's feedback    | 20/06/2026 | 20/06/2026      |                     |
+| Sun | - (Self-study at home) Read documentation on Amazon SES to prepare for Week 11                                            | 21/06/2026 | 21/06/2026      |                     |
 
 ### Week 10 Achievements:
 

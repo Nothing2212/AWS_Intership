@@ -19,6 +19,8 @@ pre: " <b> 1.6. </b> "
 | Wed | - Learn Amazon CloudFront: CDN, origin, cache behavior                                     | 20/05/2026 | 20/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | Thu | - **Practice:** create a CloudFront distribution for the S3 static website                  | 21/05/2026 | 21/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | Fri | - Learn VPC Peering and NAT Gateway                                                         | 22/05/2026 | 22/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Sat | - (Self-study at home) Reviewed the Route 53/CloudFront setup, cleaned up test resources to avoid extra cost | 23/05/2026 | 23/05/2026      |                                               |
+| Sun | - (Self-study at home) Read overview material on the LunaGenZ project to prepare for joining the project next week | 24/05/2026 | 24/05/2026      |                                               |
 
 ### Week 6 Achievements:
 

@@ -24,6 +24,8 @@ Từ tuần này, worklog tập trung vào phần việc AI của dự án LunaG
 | 4   | - Tìm hiểu Amazon Bedrock, các foundation model <br> - Kích hoạt quyền truy cập model **Claude 3 Haiku**                                               | 27/05/2026   | 27/05/2026      |                |
 | 5   | - **Thực hành:** gọi thử Bedrock InvokeModel API với Claude 3 Haiku qua console/SDK                                                                    | 28/05/2026   | 28/05/2026      |                |
 | 6   | - Tìm hiểu luồng xử lý AI trong hệ thống: request người dùng &rarr; AWS Lambda (Core Logic) &rarr; Amazon Bedrock &rarr; trả kết quả (Gen Prompt AI)  | 29/05/2026   | 29/05/2026      |                |
+| 7   | - Tham gia sự kiện **Meeting 30/5** cùng các thành viên FCJ (xem chi tiết tại mục "Các events đã tham gia" &rarr; Event 1)                              | 30/05/2026   | 30/05/2026      |                |
+| CN  | - (Tự học tại nhà) Đọc thêm tài liệu về Amazon Bedrock và cách viết prompt hiệu quả để chuẩn bị cho tuần 8                                              | 31/05/2026   | 31/05/2026      |                |
 
 ### Kết quả đạt được tuần 7:
 

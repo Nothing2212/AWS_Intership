@@ -19,6 +19,8 @@ pre: " <b> 1.2. </b> "
 | 4   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                           | 22/04/2026   | 22/04/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 5   | - Tìm hiểu VPC: <br>&emsp; + Subnet public/private <br>&emsp; + Route table <br>&emsp; + Internet Gateway <br>&emsp; + Security Group                        | 23/04/2026   | 23/04/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 6   | - **Thực hành:** <br>&emsp; + Tạo VPC tùy chỉnh với subnet public/private <br>&emsp; + Cấu hình Security Group cho EC2                                        | 24/04/2026   | 24/04/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| 7   | - (Tự học tại nhà) Ôn lại EC2, VPC; làm lại các bài lab đã thực hành trong tuần để nắm chắc kiến thức                                                         | 25/04/2026   | 25/04/2026      |                                               |
+| CN  | - (Tự học tại nhà) Đọc tài liệu về Amazon S3 để chuẩn bị cho nội dung tuần 3                                                                                  | 26/04/2026   | 26/04/2026      |                                               |
 
 ### Kết quả đạt được tuần 2:
 

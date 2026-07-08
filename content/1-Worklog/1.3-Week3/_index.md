@@ -23,6 +23,8 @@ pre: " <b> 1.3. </b> "
 | Wed | - Learn S3 lifecycle policies <br> - **Practice:** host a static website on S3                                                     | 29/04/2026 | 29/04/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | Thu | - Public holiday (Reunification Day)                                                                                               | 30/04/2026 | 30/04/2026      |                                                |
 | Fri | - Public holiday (International Labor Day)                                                                                         | 01/05/2026 | 01/05/2026      |                                                |
+| Sat | - (Self-study at home) Made up practice on S3 lifecycle policies and static website hosting, missed due to the mid-week holidays   | 02/05/2026 | 02/05/2026      |                                                |
+| Sun | - (Self-study at home) Reviewed this week's S3 material, read ahead on RDS/DynamoDB for Week 4                                     | 03/05/2026 | 03/05/2026      |                                                |
 
 ### Week 3 Achievements:
 

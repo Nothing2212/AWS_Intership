@@ -19,6 +19,8 @@ pre: " <b> 1.6. </b> "
 | 4   | - Tìm hiểu Amazon CloudFront: CDN, origin, cache behavior                                            | 20/05/2026   | 20/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 5   | - **Thực hành:** tạo CloudFront distribution cho website tĩnh trên S3                                | 21/05/2026   | 21/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 6   | - Tìm hiểu VPC Peering và NAT Gateway                                                                | 22/05/2026   | 22/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| 7   | - (Tự học tại nhà) Ôn lại cấu hình Route 53/CloudFront, dọn dẹp resource test để tránh phát sinh chi phí | 23/05/2026   | 23/05/2026      |                                               |
+| CN  | - (Tự học tại nhà) Đọc tài liệu tổng quan về dự án LunaGenZ để chuẩn bị tham gia dự án từ tuần sau      | 24/05/2026   | 24/05/2026      |                                               |
 
 ### Kết quả đạt được tuần 6:
 

@@ -19,6 +19,8 @@ pre: " <b> 1.9. </b> "
 | Wed | - Code the SQS message consumer <br> - Query DynamoDB to check the payment status (Verify Payment) before returning the result           | 10/06/2026 | 10/06/2026      |                     |
 | Thu | - Integrate with the Lambda (Payment Webhook Handler): receive the payment callback, update the status in DynamoDB                       | 11/06/2026 | 11/06/2026      |                     |
 | Fri | - Test the end-to-end flow: request &rarr; validate &rarr; verify payment &rarr; generate AI result &rarr; push result via SQS           | 12/06/2026 | 12/06/2026      |                     |
+| Sat | - (Self-study at home) Reviewed this week's SQS/DynamoDB flow, wrote up personal technical notes                                          | 13/06/2026 | 13/06/2026      |                     |
+| Sun | - (Self-study at home) Read documentation on PDF-generation libraries to prepare for Week 10                                              | 14/06/2026 | 14/06/2026      |                     |
 
 ### Week 9 Achievements:
 

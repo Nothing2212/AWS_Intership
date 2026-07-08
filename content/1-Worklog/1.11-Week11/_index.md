@@ -19,6 +19,8 @@ pre: " <b> 1.11. </b> "
 | Wed | - Configure CloudWatch Logs & Metrics for the Lambdas (Core Logic, Payment Webhook Handler, Report Processor) and API Gateway                         | 24/06/2026 | 24/06/2026      |                     |
 | Thu | - Set up a CloudWatch Alarm to alert on errors/latency when calling Amazon Bedrock                                                                    | 25/06/2026 | 25/06/2026      |                     |
 | Fri | - Run an end-to-end test of the full flow: User request &rarr; Auth &rarr; Validate &rarr; Payment &rarr; Gen AI &rarr; SQS &rarr; Report &rarr; S3 &rarr; SES &rarr; Email | 26/06/2026 | 26/06/2026      |                     |
+| Sat | - (Self-study at home) Reviewed the CloudWatch alarms/dashboards set up so far, double-checked alert thresholds                                          | 27/06/2026 | 27/06/2026      |                     |
+| Sun | - (Self-study at home) Prepared notes/documentation for the final two weeks of the internship (security review, wrap-up)                                 | 28/06/2026 | 28/06/2026      |                     |
 
 ### Week 11 Achievements:
 
