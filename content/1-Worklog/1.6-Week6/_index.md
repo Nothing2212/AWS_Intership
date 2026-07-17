@@ -8,23 +8,23 @@ pre: " <b> 1.6. </b> "
 
 ### Week 6 Objectives:
 
-* Understand DNS (Route 53) and CDN (CloudFront) services.
-* Learn advanced networking concepts: VPC Peering, NAT Gateway.
+* Understand DNS (Route 53) routing policies and CDN (CloudFront) caching behavior in depth.
+* Learn advanced networking concepts: VPC Peering (and its non-transitive nature) and NAT Gateway.
 
 ### Tasks to be carried out this week:
 | Day | Task                                                                                    | Start Date | Completion Date | Reference Material                           |
 | --- | ---------------------------------------------------------------------------------------- | ---------- | --------------- | --------------------------------------------- |
-| Mon | - Learn Route 53: hosted zones, record types (A, CNAME, Alias...)                          | 18/05/2026 | 18/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Tue | - **Practice:** point a domain to EC2/ALB via Route 53                                     | 19/05/2026 | 19/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Wed | - Learn Amazon CloudFront: CDN, origin, cache behavior                                     | 20/05/2026 | 20/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Thu | - **Practice:** create a CloudFront distribution for the S3 static website                  | 21/05/2026 | 21/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Fri | - Learn VPC Peering and NAT Gateway                                                         | 22/05/2026 | 22/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Sat | - Reviewed the Route 53/CloudFront setup, cleaned up test resources to avoid extra cost | 23/05/2026 | 23/05/2026      |                                               |
+| Mon | - Learn Route 53 in depth: hosted zones, record types (A, CNAME, Alias), and routing policies (simple, weighted, latency-based, failover)                          | 18/05/2026 | 18/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Tue | - **Practice:** point a domain to an EC2/ALB via Route 53 using an Alias record, and compare it against a plain CNAME                                     | 19/05/2026 | 19/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Wed | - Learn Amazon CloudFront in depth: CDN edge caching, origin types (S3, ALB), cache behaviors, TTL settings, and Origin Access Control (OAC) for private S3 origins                                     | 20/05/2026 | 20/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Thu | - **Practice:** create a CloudFront distribution for the S3 static website using OAC (instead of a public bucket), and verify the origin bucket can no longer be reached directly                  | 21/05/2026 | 21/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Fri | - Learn VPC Peering (point-to-point, non-transitive routing between VPCs) and NAT Gateway (managed, highly available, vs a self-managed NAT instance)                                                         | 22/05/2026 | 22/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Sat | - Reviewed the Route 53/CloudFront setup and why OAC is safer than a public bucket policy, cleaned up test resources to avoid extra cost | 23/05/2026 | 23/05/2026      |                                               |
 | Sun | - Read overview material on the LunaGenZ project to prepare for joining the project next week | 24/05/2026 | 24/05/2026      |                                               |
 
 ### Week 6 Achievements:
 
-* Successfully configured a domain pointing to AWS infrastructure via Route 53.
-* Deployed a CloudFront distribution to speed up delivery of the S3 static website.
-* Understood how VPCs connect via Peering and how a NAT Gateway lets private subnets reach the internet.
+* Successfully configured a domain pointing to AWS infrastructure via Route 53 using an Alias record, and understood how routing policies (weighted, latency-based, failover) apply to real traffic-distribution scenarios.
+* Deployed a CloudFront distribution in front of the S3 static website using Origin Access Control, locking down direct public access to the bucket while still serving content quickly over HTTPS via edge caching.
+* Understood how VPCs connect via Peering (and why peered connections are not transitive), and how a NAT Gateway lets private subnets reach the internet outbound-only, without exposing them to inbound traffic.
 * ...

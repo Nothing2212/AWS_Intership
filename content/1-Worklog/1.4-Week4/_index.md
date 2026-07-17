@@ -8,24 +8,24 @@ pre: " <b> 1.4. </b> "
 
 ### Week 4 Objectives:
 
-* Understand Amazon RDS: engines, Multi-AZ, Read Replica, backup/restore.
-* Get familiar with basic Amazon DynamoDB (NoSQL).
+* Understand Amazon RDS in depth: database engines, Multi-AZ (synchronous, for high availability) vs Read Replica (asynchronous, for read scaling), backup/restore strategy.
+* Get familiar with Amazon DynamoDB fundamentals: partition/sort key design and its impact on performance.
 
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                    | Start Date | Completion Date | Reference Material                           |
 | --- | --------------------------------------------------------------------------------------------------------- | ---------- | --------------- | --------------------------------------------- |
-| Mon | - Learn Amazon RDS: database engines (MySQL, PostgreSQL,...), Multi-AZ, Read Replica                        | 04/05/2026 | 04/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Tue | - **Practice:** create an RDS instance, connect from EC2/local                                              | 05/05/2026 | 05/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Wed | - Learn RDS backup, snapshot, and restore                                                                   | 06/05/2026 | 06/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Thu | - Learn basic Amazon DynamoDB: partition key, sort key                                                      | 07/05/2026 | 07/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Fri | - **Practice:** create a DynamoDB table, basic CRUD operations                                               | 08/05/2026 | 08/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| Sat | - Reviewed RDS/DynamoDB, practiced a few more CRUD operations with DynamoDB              | 09/05/2026 | 09/05/2026      |                                               |
+| Mon | - Learn Amazon RDS in depth: database engines (MySQL, PostgreSQL,...), Multi-AZ (synchronous standby replica for failover) vs Read Replica (asynchronous, offloads read traffic) and when to combine both | 04/05/2026 | 04/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Tue | - **Practice:** create an RDS instance, connect from EC2/local, and verify the security group only allows access from the app tier, not the public internet                                              | 05/05/2026 | 05/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Wed | - Learn RDS backup, snapshot, and restore: automated backups + retention window vs manual snapshots, and point-in-time recovery                                                                   | 06/05/2026 | 06/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Thu | - Learn Amazon DynamoDB in depth: partition key vs sort key, how the partition key determines data distribution, and why a poorly chosen key causes "hot partitions"                                                      | 07/05/2026 | 07/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Fri | - **Practice:** create a DynamoDB table with a composite key, perform CRUD operations, and compare on-demand vs provisioned capacity mode                                               | 08/05/2026 | 08/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| Sat | - Reviewed RDS Multi-AZ/Read Replica and DynamoDB partition key design, practiced a few more CRUD operations and a simple query using a sort key range              | 09/05/2026 | 09/05/2026      |                                               |
 | Sun | - Read documentation on Elastic Load Balancer and Auto Scaling to prepare for Week 5     | 10/05/2026 | 10/05/2026      |                                               |
 
 ### Week 4 Achievements:
 
-* Understood RDS database engines and how Multi-AZ and Read Replica work.
-* Successfully created and connected to an RDS instance from EC2.
-* Learned how to back up, snapshot, and restore RDS.
-* Got familiar with DynamoDB, practiced creating a table and basic CRUD operations.
+* Understood RDS database engines and, concretely, how Multi-AZ (synchronous replication for failover) differs from a Read Replica (asynchronous, used to scale reads) — and when a production setup needs both.
+* Successfully created and connected to an RDS instance from EC2 with network access scoped only to the application tier.
+* Learned how automated backups (with a retention window) differ from manual snapshots, and how point-in-time recovery works.
+* Got familiar with DynamoDB, practiced designing a composite key (partition + sort key), avoided an obvious hot-partition design, and compared on-demand vs provisioned capacity.
 * ...
