@@ -1,6 +1,6 @@
 ---
 title: "Architecture Design"
-date: 2026-04-18
+date: 2026-06-01
 weight: 2
 chapter: false
 pre: " <b> 5.2. </b> "
