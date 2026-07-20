@@ -18,7 +18,7 @@ pre: " <b> 1.4. </b> "
 | 3   | - **Thực hành:** tạo RDS instance, kết nối từ EC2/local, kiểm tra security group chỉ cho phép truy cập từ tầng ứng dụng chứ không mở ra internet                                                                  | 05/05/2026   | 05/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 4   | - Tìm hiểu backup, snapshot và restore RDS: automated backup có retention window so với manual snapshot, và cơ chế point-in-time recovery                                                                              | 06/05/2026   | 06/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 5   | - Tìm hiểu sâu Amazon DynamoDB: partition key so với sort key, cách partition key quyết định việc phân phối dữ liệu, và tại sao chọn key không tốt sẽ gây ra "hot partition"                                                               | 07/05/2026   | 07/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
-| 6   | - **Thực hành:** tạo bảng DynamoDB với composite key, thao tác CRUD, so sánh chế độ on-demand và provisioned capacity                                                                 | 08/05/2026   | 08/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
+| 6   | - **Thực hành:** tạo bảng DynamoDB với composite key, thao tác CRUD, so sánh chế độ on-demand và provisioned capacity (lần đầu chọn partition key theo loại danh mục cố định khiến dữ liệu dồn vào một vài partition khi test tải, phải thiết kế lại key)                | 08/05/2026   | 08/05/2026      | <https://cloudjourney.awsstudygroup.com/vi/> |
 | 7   | - Ôn lại Multi-AZ/Read Replica của RDS và cách thiết kế partition key của DynamoDB, thực hành thêm vài thao tác CRUD và một truy vấn đơn giản dùng khoảng giá trị của sort key                                    | 09/05/2026   | 09/05/2026      |                                               |
 | CN  | - Đọc tài liệu về Elastic Load Balancer và Auto Scaling để chuẩn bị cho tuần 5                          | 10/05/2026   | 10/05/2026      |                                               |
 
@@ -27,5 +27,6 @@ pre: " <b> 1.4. </b> "
 * Hiểu các database engine của RDS và cụ thể hơn về sự khác biệt giữa Multi-AZ (bản sao đồng bộ dùng để failover) và Read Replica (bất đồng bộ, dùng để mở rộng khả năng đọc) — cũng như khi nào một hệ thống production cần cả hai.
 * Tạo và kết nối thành công RDS instance từ EC2 với phạm vi truy cập mạng chỉ giới hạn ở tầng ứng dụng.
 * Nắm được sự khác biệt giữa automated backup (có retention window) và manual snapshot, cùng cơ chế point-in-time recovery.
-* Làm quen với DynamoDB, thực hành thiết kế composite key (partition key + sort key), tránh được lỗi thiết kế gây hot partition dễ gặp phải, và so sánh được chế độ on-demand với provisioned capacity.
+* Làm quen với DynamoDB, thực hành thiết kế composite key (partition key + sort key); lần đầu chọn key chưa tốt nên gặp đúng lỗi hot partition khi test tải, phải thiết kế lại key phân tán đều hơn, và so sánh được chế độ on-demand với provisioned capacity.
+* Qua sự cố hot partition, hiểu rõ hơn (bằng trải nghiệm thực tế chứ không chỉ lý thuyết) lý do vì sao chọn partition key tốt lại quan trọng.
 * ...

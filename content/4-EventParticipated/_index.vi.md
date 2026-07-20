@@ -21,6 +21,7 @@ Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là
 
 &emsp;**Kết quả đạt được:** Có thêm kiến thức thực tế về kiến trúc cloud hiện đại và triển khai dự án, rèn luyện kỹ năng mềm về sự tự tin và vượt qua trì hoãn, học được cách luyện tập AWS hiệu quả với Cloud Quest và Floci.
 
+[Ảnh meeting 30/5](./images/4-Event/meeting30-5.png)
 ---
 
 ### [Event 2](4.2-Event2/)
@@ -35,3 +36,5 @@ Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là
 &emsp;**Nội dung và hoạt động:** Các phiên chuyên sâu về containerization với Docker, kết hợp AWS WAF với Machine Learning để phát hiện tấn công, xây dựng game multiplayer với Godot và AWS WebSockets, kỹ năng làm việc nhóm hiệu quả, hành trình sự nghiệp từ IT Helpdesk lên Senior Sysadmin, và xây dựng ứng dụng GraphRAG với Amazon Bedrock và Neptune.
 
 &emsp;**Kết quả đạt được:** Nâng cao kiến thức kỹ thuật về containerization, bảo mật tự động và kiến trúc multiplayer thời gian thực; cập nhật xu hướng AI mới về GraphRAG; và có thêm định hướng nghề nghiệp cùng kỹ năng làm việc nhóm áp dụng được cho các dự án sau này.
+
+![Ảnh meeting 13/06](/images/4-Event/meeting13-06.png)

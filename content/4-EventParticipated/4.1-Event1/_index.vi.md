@@ -85,3 +85,5 @@ Tham gia sự kiện "Meeting 30/5" là một trải nghiệm rất bổ ích, g
 - **Học hỏi từ các diễn giả có chuyên môn cao:** Hiểu rõ hơn về các kiến trúc đám mây hiện đại và cách triển khai dự án thực tế thông qua các case study như "Tử Vi Đại Việt", Hackathon, hay Game Multiplayer.
 - **Phát triển kỹ năng mềm:** Nhận ra tầm quan trọng của sự tự tin, kỹ năng làm việc nhóm, và đặc biệt là cách đối mặt với nỗi sợ hãi để vượt qua sự trì hoãn.
 - **Trải nghiệm kỹ thuật thực tế:** Học được cách tối ưu hóa việc học AWS qua Cloud Quest, Floci, cũng như cách nhìn nhận toàn diện vấn đề trước khi bắt tay vào triển khai thông qua mô hình tảng băng trôi của DevOps.
+
+![Ảnh meeting 30/5](./images/4-Event/meeting30-5.png)

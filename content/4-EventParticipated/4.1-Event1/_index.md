@@ -84,3 +84,5 @@ Attending the "Meeting 30/5" event was an extremely valuable experience, giving 
 - **Learning from highly skilled speakers:** Gained a better understanding of modern cloud architectures and how to deploy real-world projects through case studies such as "Tu Vi Dai Viet," the Hackathon, and multiplayer games.
 - **Developing soft skills:** Recognized the importance of confidence, teamwork skills, and especially how to face fear in order to overcome procrastination.
 - **Hands-on technical experience:** Learned how to optimize AWS learning through Cloud Quest and Floci, as well as how to look at a problem holistically before implementation, using DevOps's iceberg model.
+
+![Picture meeting 30/5](./images/4-Event/meeting30-5.png)

@@ -21,6 +21,7 @@ During my internship, I participated in two events. Each one was a memorable exp
 
 &emsp;**Outcomes:** Gained practical tips on modern cloud architecture and project deployment, strengthened soft skills around confidence and overcoming procrastination, and learned how to practice AWS efficiently using Cloud Quest and Floci.
 
+![Picture meeting 30/5](./images/4-Event/meeting30-5.png)
 ---
 
 ### [Event 2](4.2-Event2/)  
@@ -35,3 +36,5 @@ During my internship, I participated in two events. Each one was a memorable exp
 &emsp;**Content & Activities:** Deep-dive sessions on Docker containerization, combining AWS WAF with Machine Learning for attack detection, building multiplayer games with Godot and AWS WebSockets, effective teamwork practices, a career journey from IT Helpdesk to Senior Sysadmin, and building GraphRAG applications with Amazon Bedrock and Neptune.
 
 &emsp;**Outcomes:** Deepened technical knowledge of containerization, automated security, and real-time multiplayer architecture; picked up new AI trends around GraphRAG; and gained career and teamwork insights applicable to future projects.
+
+![Picture meeting 13/06](/images/4-Event/meeting13-06.png)
